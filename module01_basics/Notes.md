@@ -19,35 +19,52 @@ var keyword used for declaration
 Go is statically typed → type fixed at compile time
 
 🔢 3. Data Types
-🔹 Basic Types
+🔹 Basic Types 
+<br>
  > int → integer values
+ <br>
  > float64 → decimal values
+ <br>
  > string → text
+ <br>
  > bool → true/false
 
 📥 4. Input & Output (fmt package)
 
 > fmt package used for I/O
+<br>
 > Scanln() takes input
+<br>
 > & is used to pass address
 
 🔄 5. Type Conversion
  > Go does NOT allow automatic conversion
+ <br>
  > Explicit conversion required
 
 ➕ 6. Operators
  🔹 Arithmetic Operators
+ <br>
     + → addition
+    <br>
     - → subtraction
+    <br>
     * → multiplication
+    <br>
     / → division
+    <br>
     % → modulus
     
 💡 10. Key Learnings
+<br>
  > Go syntax is simple and clean
+ <br>
  > Strong typing system
+ <br>
  > No implicit conversions
+ <br>
  > Built-in support for basic operations
+ <br>
  > Easy input/output handling
 
 📌 Status
