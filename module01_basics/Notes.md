@@ -19,6 +19,7 @@ var keyword used for declaration
 Go is statically typed → type fixed at compile time
 
 🔢 3. Data Types
+<br>
 🔹 Basic Types 
 <br>
  > int → integer values
@@ -30,6 +31,7 @@ Go is statically typed → type fixed at compile time
  > bool → true/false
 
 📥 4. Input & Output (fmt package)
+<br>
 
 > fmt package used for I/O
 <br>
@@ -38,11 +40,13 @@ Go is statically typed → type fixed at compile time
 > & is used to pass address
 
 🔄 5. Type Conversion
+<br>
  > Go does NOT allow automatic conversion
  <br>
  > Explicit conversion required
 
 ➕ 6. Operators
+<br>
  🔹 Arithmetic Operators
  <br>
     + → addition
@@ -56,7 +60,7 @@ Go is statically typed → type fixed at compile time
     % → modulus
     
 💡 10. Key Learnings
-<br>
+
  > Go syntax is simple and clean
  <br>
  > Strong typing system
