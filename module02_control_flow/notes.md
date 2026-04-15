@@ -14,10 +14,15 @@ It helps in:
 ### Syntax
 
 if condition {
+    <br>
     // code
+    <br>
 } else {
+    <br>
     // code
+    <br>
 }
+<br>
 Key Points 
 <br>
 Condition must be boolean
@@ -25,27 +30,40 @@ Condition must be boolean
 Curly braces {} are mandatory
 <br>
 No parentheses required
+<br>
 
 🔁 Else-If Ladder
 <br>
 Syntax
 <br>
 if condition1 {
+    <br>
 } else if condition2 {
+    <br>
 } else {
+    <br>
 }
+<br>
 🔘 Switch Statement
 <br>
 Syntax
 <br>
 switch expression {
+    <br>
 case value1:
+<br>
     // code
+    <br>
 case value2:
+<br>
     // code
+    <br>
 default:
+<br>
     // code
+    <br>
 }
+<br>
 
 Key Points
 <br>
@@ -65,20 +83,30 @@ Can match multiple values
 🔹 Basic Loop
 <br>
 for i := 1; i <= 5; i++ {
+    <br>
     fmt.Println(i)
+    <br>
 }
+
 <br>
 🔹 While-style Loop
 i := 1
+<br>
 for i <= 5 {
+    <br>
     fmt.Println(i)
+    <br>
     i++
+    <br>
 }
+
 <br>
 
 🔹 Infinite Loop
 for {
+    <br>
     fmt.Println("Infinite Loop")
+    <br>
 }
 <br>
 🎯 🔹 What is break?
