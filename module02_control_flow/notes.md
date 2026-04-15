@@ -13,7 +13,6 @@ It helps in:
 
 ### Syntax
 
-```go
 if condition {
     // code
 } else {
